@@ -91,12 +91,7 @@ body {
 }
 
 .title-composition {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: flex-start;
-    gap: 8px;
-    align-self: stretch;
+    margin: 4px;
 }
 
 .class-p {
